@@ -2,7 +2,8 @@
 **Overview**
 This project is a user-friendly app that converts natural language queries into SQL commands, leveraging the power of Llama2. The app aims to make database querying more accessible for non-technical users by reducing the complexity of SQL formulation.
 
-**Features**
+## **Features**
+
 **Natural Language to SQL Conversion**: Users can type queries in everyday language and receive corresponding SQL commands.
 
 **Enhanced Accessibility**: Built to enable non-technical users to interact with databases easily, enhancing productivity.
