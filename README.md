@@ -17,3 +17,6 @@ Technologies
 Outcome
 
 This app reduces SQL query formulation time by over 60%, streamlining workflows and increasing accessibility to data for all users.
+
+
+![image](https://github.com/user-attachments/assets/a5ba8458-0514-4b2b-b115-5a27c95c2d0f)
